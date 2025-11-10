@@ -1,0 +1,12 @@
+##### this is line editor project text file ####
+lets learn cpp 
+C was developed by Dennis Ritchie in 1972 at Bell Labs.
+this is line editor project in cpp
+smart pointers are added in modern cpp
+c is subset of cpp
+C allows for direct manipulation of hardware.
+It is commonly used in operating systems, embedded systems, and high-performance applications.
+cpp = c + classes + OOPS + smart pointers + STL's + namespace + reference variables + many more...
+C's syntax and structure is very simple.
+Its portability allows code to run on various platforms with minimal changes.
+tata
